@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554379246 source:d:\algorytmy\rock_papper_scissors\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+
