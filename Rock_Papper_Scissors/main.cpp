@@ -7,7 +7,7 @@ int main()
 {
     std::cout<<"##################################################\n"
     <<"#                                                #\n"
-    <<"#         Welcome to Rock, Papper, Scissors      #\n"
+    <<"#         Welcome to Rock, Paper, Scissors      #\n"
     <<"#         You vs advanced AI                     #\n"
     <<"#                                                #\n"
     <<"##################################################\n";
@@ -16,7 +16,7 @@ int main()
     int bot_score=0;
     int b,h;
     std::cout<<"Choose: \n";
-    std::cout<<"1. Papper\n2. Rock\n3. Scissors\n\n";
+    std::cout<<"1. Paper\n2. Rock\n3. Scissors\n\n";
     std::cout<<"\nYOUR SCORE: "<<human_score<<"\nBOT SCORE: "<<bot_score<<"\n\n";
 
 
@@ -40,7 +40,7 @@ int main()
     {
         case 1:
         {
-            std::cout<<"YOU: "<<"Papper\n";
+            std::cout<<"YOU: "<<"Paper\n";
             break;
         }
         case 2:
@@ -62,7 +62,7 @@ int main()
     {
         case 1:
         {
-            std::cout<<"BOT: "<<"Papper\n\n";
+            std::cout<<"BOT: "<<"Paper\n\n";
             break;
         }
         case 2:
@@ -120,7 +120,7 @@ int main()
     system("cls");
     std::cout<<"##################################################\n"
     <<"#                                                #\n"
-    <<"#         Welcome to Rock, Papper, Scissors      #\n"
+    <<"#         Welcome to Rock, Paper, Scissors      #\n"
     <<"#         You vs advanced AI                     #\n"
     <<"#                                                #\n"
     <<"##################################################\n";
@@ -132,7 +132,7 @@ int main()
     system("cls");
     std::cout<<"##################################################\n"
     <<"#                                                #\n"
-    <<"#         Welcome to Rock, Papper, Scissors      #\n"
+    <<"#         Welcome to Rock, Paper, Scissors      #\n"
     <<"#         You vs advanced AI                     #\n"
     <<"#                                                #\n"
     <<"##################################################\n";
@@ -150,7 +150,7 @@ int main()
         system("cls");
     std::cout<<"##################################################\n"
     <<"#                                                #\n"
-    <<"#         Welcome to Rock, Papper, Scissors      #\n"
+    <<"#         Welcome to Rock, Paper, Scissors      #\n"
     <<"#         You vs advanced AI                     #\n"
     <<"#                                                #\n"
     <<"##################################################\n";
